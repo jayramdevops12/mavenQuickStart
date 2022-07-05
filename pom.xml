@@ -6,7 +6,7 @@
 
   <groupId>com.jayramdevops</groupId>
   <artifactId>login</artifactId>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.2-SNAPSHOT</version>
 
   <name>login</name>
   <!-- FIXME change it to the project's website -->
@@ -30,7 +30,7 @@
 <scm>        
     <connection>scm:git:https://github.com/jayramdevops12/mavenQuickStart.git</connection>
  <developerConnection>scm:git:https://github.com/jayramdevops12/mavenQuickStart.git</developerConnection>
-      <tag>test</tag>
+      <tag>HEAD</tag>
   </scm>
 
 
