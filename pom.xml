@@ -30,7 +30,7 @@
 <scm>        
     <connection>scm:git:https://github.com/jayramdevops12/mavenQuickStart.git</connection>
  <developerConnection>scm:git:https://github.com/jayramdevops12/mavenQuickStart.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>test</tag>
   </scm>
 
 
