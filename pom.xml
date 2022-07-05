@@ -28,8 +28,8 @@
   </dependencies>
 
 <scm>        
-    <connection>scm:git:https://github.com/jayramdevops12/mavenQuickStart.git</connection>
- <developerConnection>scm:git:https://github.com/jayramdevops12/mavenQuickStart.git</developerConnection>
+    <connection>scm:git:git@github.com:jayramdevops12/mavenQuickStart.git</connection>
+ <developerConnection>scm:git:git@github.com:jayramdevops12/mavenQuickStart.git</developerConnection>
       <tag>test1</tag>
   </scm>
 
